@@ -4,3 +4,5 @@
 赵六
 陈七
 周八
+tomorrow is wensday
+tomorrow is thursday
