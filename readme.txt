@@ -6,4 +6,4 @@
 周八
 tomorrow is wensday
 tomorrow is thursday
-today is very good!
+tomorrow is very good!
